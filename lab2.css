@@ -1,0 +1,40 @@
+.container {
+  position: inherit;
+  margin: auto;
+  right: 0;
+  left: 0;
+}
+.bordering{
+  border: 1px solid rgba(0, 0, 0, .5);
+  border-radius: 5px;
+}
+h2 {
+  margin: 10px 50px;
+}
+#search-box {
+  width: 600px;
+  height: 100px;
+}
+.search-bar {
+  width: 500px;
+  height: 35px;
+  margin: 10px 50px;
+}
+#artist-container {
+  width: 500px;
+}
+.artist {
+  width: 500px;
+}
+.artist:hover {
+  background-color: yellow;
+}
+img {
+  width: 100px;
+  border-radius: 5px;
+  margin: 5px;
+}
+.artist-info {
+  float: right;
+  width: 390px;
+}
